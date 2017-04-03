@@ -24,6 +24,7 @@ Just a quick list of references, tutorials, workshops, courses. Some I've comple
 * https://pypi.python.org/pypi/Flask-Login
 
 * https://flask-wtf.readthedocs.io/en/stable/
+* http://wtforms.readthedocs.io/en/latest/crash_course.html
 * https://www.tutorialspoint.com/flask/flask_wtf.htm
 * http://exploreflask.com/en/latest/forms.html
 
@@ -36,3 +37,19 @@ Just a quick list of references, tutorials, workshops, courses. Some I've comple
 * http://derrickgilland.com/posts/demystifying-flask-sqlalchemy/
 * http://flask-sqlalchemy.pocoo.org/2.1/ 
 
+#other resources. to be vetted.
+* https://techarena51.com/index.php/how-to-install-python-3-and-flask-on-linux/
+* https://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/
+* https://techarena51.com/index.php/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/
+* https://techarena51.com/index.php/flask-github-webhook-handler/
+* https://techarena51.com/index.php/install-selenium-linux-automate-web-tests/
+
+# hardcore high speed networking 
+* https://magic.io/blog/uvloop-make-python-networking-great-again/
+
+#flask hosting
+* https://www.pythonanywhere.com/
+* https://dashboard.heroku.com/login
+## I haven't used these yet.
+* https://www.webfaction.com/  [paid]
+* https://cloud.google.com/appengine/docs/?csw=1 []
